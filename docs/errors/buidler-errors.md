@@ -18,7 +18,7 @@ Please upgrade your version of Node.js and try again.
 
 ### BDLR3: Unsupported operation
 
-You are tying to perform an unsupported operation.
+You are trying to perform an unsupported operation.
 
 Unless you are creating a task or plugin, this is probably a bug.
 
